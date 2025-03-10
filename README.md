@@ -6,6 +6,9 @@ This could serve as a benchmark: how long will a human play a game after 30 minu
 
 Time to beat: 5 minutes. :)
 
+
+Currently hosted: https://calm-toffee-e723d4.netlify.app/
+
 --- 
 
 # React PacMan like Game 🎮
